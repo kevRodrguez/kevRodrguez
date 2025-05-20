@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kevin Rodriguez!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Full-Stack+Developer;Mobile+App+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Full-Stack+Developer;Mobile+App+Web+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
@@ -40,7 +40,7 @@ A comprehensive transportation solution with multiple components:
 
 - **BusRoutes Web** - Web platform for route, transportation, Busstops and administration management ![BusRoutes Web](https://github.com/kevRodrguez/BusRoutes)
 - **BusRoutes Mobile** - Cross-platform mobile application for users on the go ![BusRoutes Mobile](https://github.com/kevRodrguez/Busroutes-Mobile)
-- **BusRoutes Backend** - Robust API and services powering the ecosystem ![BusRoutesMobile Backend Nodejs](https://github.com/Bryan-Escobar/busroutes_mobile_backend)
+- **BusRoutes Backend** - Robust API and services powering the ecosystem, with AI integration ![BusRoutesMobile Backend Nodejs](https://github.com/Bryan-Escobar/busroutes_mobile_backend)
 
 ## 📊 GitHub Stats
 
