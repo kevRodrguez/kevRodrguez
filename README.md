@@ -10,7 +10,7 @@
 - 🌎 From **El Salvador** 🇸🇻
 - 🗣️ Bilingual (Spanish & English)
 - 💼 Full-stack developer and designer
-- 🚌 Working on transportation solutions through my BusRoutes projects
+- 🚌 Right now working on transportation solutions through my BusRoutes projects
 
 ## 🛠️ Tech Stack
 
@@ -38,15 +38,12 @@
 ### BusRoutes Ecosystem
 A comprehensive transportation solution with multiple components:
 
-- **BusRoutes** - Web platform for route planning and management
-- **BusRoutes Mobile** - Cross-platform mobile application for users on the go
-- **BusRoutes Backend** - Robust API and services powering the ecosystem
+- **BusRoutes Web** - Web platform for route, transportation, Busstops and administration management ![BusRoutes Web](https://github.com/kevRodrguez/BusRoutes)
+- **BusRoutes Mobile** - Cross-platform mobile application for users on the go ![BusRoutes Mobile](https://github.com/kevRodrguez/Busroutes-Mobile)
+- **BusRoutes Backend** - Robust API and services powering the ecosystem ![BusRoutesMobile Backend Nodejs](https://github.com/Bryan-Escobar/busroutes_mobile_backend)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevRodrguez&show_icons=true&theme=tokyonight" alt="Kevin's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevRodrguez&theme=tokyonight" alt="Kevin's GitHub streak" />
