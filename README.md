@@ -9,7 +9,9 @@
 - 🎓 Currently studying **Software Engineering**
 - 🌎 From **El Salvador** 🇸🇻
 - 🗣️ Bilingual (Spanish & English)
-- 💼 Full-stack developer and designer
+- 💼 Junior developer and designer
+- 💻 Specialize in frontend develpment with React and React Native
+- 📦 Experience building API´s with Nodejs and Typescript
 - 🚌 Right now working on transportation solutions through my BusRoutes projects
 
 ## 🛠️ Tech Stack
